@@ -1,0 +1,1 @@
+rm -rf build && mkdir -p build && cd build && CMAKE_C_COMPILER=gcc CMAKE_CXX_COMPILER=g++ cmake .. -DCMAKE_INSTALL_PREFIX=../install -DCMAKE_BUILD_TYPE=RelWithDebInfo -DCMAKE_DISABLE_SYCL=1 && make -j install
