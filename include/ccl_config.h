@@ -17,8 +17,8 @@
 #define CCL_MINOR_VERSION                   7
 #define CCL_UPDATE_VERSION                  0
 #define CCL_PRODUCT_STATUS             "beta"
-#define CCL_PRODUCT_BUILD_DATE         "2020-06-19T 21:29:18Z"
-#define CCL_PRODUCT_FULL               "beta-0.7.0 2020-06-19T 21:29:18Z (mlp/a46ba7b)"
+#define CCL_PRODUCT_BUILD_DATE         "2021-04-06T 05:56:05Z"
+#define CCL_PRODUCT_FULL               "beta-0.7.0 2021-04-06T 05:56:05Z (HEAD/77ce24f)"
 
 
 /* Configuration settings for multi GPU extension support*/
